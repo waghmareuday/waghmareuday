@@ -13,7 +13,7 @@ I am a software engineer and IT undergraduate at VJTI. I focus on building scala
 
 ### Featured Architecture & Projects
 - **[Scalable URL Shortener](https://github.com/waghmareuday/serverless-url-shortner)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square)]([insert_live_link_here](https://uday-shortener.netlify.app/))
-  Applied real engineering principles to scale a system handling 10M+ users per day. 
+  Applied real engineering principles to scale a system handling **10M+ users per day**. 
 - **[JoinMe](https://github.com/waghmareuday/JoinMe)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square)]([insert_live_link_here](http://joinme-theta.vercel.app/))
   A full-stack event marketplace architected using the MERN stack and other tools.
 - **[VJTI StaySmart](https://github.com/waghmareuday/VJTI-StaySmart)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square)]([insert_live_link_here](https://vjtistaysmart.netlify.app/))
