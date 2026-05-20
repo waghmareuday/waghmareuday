@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Uday Waghmare.
 
-<!--
-**waghmareuday/waghmareuday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'am a software engineer and IT undergraduate at VJTI. I focus on building scalable web applications, full-stack architectures, and robust backend systems with clean, highly functional interfaces. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Engineering Stack
+- **Languages:** C++, JavaScript, Python
+- **Frontend:** React.js, Next.Js
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, AWS DynamoDB
+- **Infrastructure:** AWS, Render, Vercel
+
+### 🚀 Featured Architecture & Projects
+- **Scalable URL shortner:** Applied real engineering principles to scale a system handling 10M+ users per day.
+- **JoinMe:** A full-stack event marketplace architected using the MERN stack and other tools.
+- **VJTI StaySmart:** A comprehensive hostel and mess management platform designed specifically for VJTI students.
+- **Annual Report RAG:** A Retrieval-Augmented Generation system built with Python and LLMs.
+- **Luminous Ledger:** A web application focusing on high-fidelity, minimalist UI components.
+
+### 📈 Experience & Academics
+- **Software Development Engineer Intern** @ Gigzi
+- **B.Tech in Information Technology** @ Veermata Jijabai Technological Institute (VJTI)
+
+---
+
+### 📫 Connect
+[LinkedIn](www.linkedin.com/in/waghmareuday)  •  [Email](mailto:udaywaghmare37@gmail.com)  •  [LeetCode](https://leetcode.com/u/waghmare_uday/)
