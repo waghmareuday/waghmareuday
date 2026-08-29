@@ -27,7 +27,7 @@ I am a Software Engineer and Information Technology undergraduate at VJTI. I spe
 - **[CrediSense — B2B BNPL API](https://github.com/waghmareuday/CrediSense---Buy-Now-Pay-Later)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square)](https://credisense-buynowpaylater.vercel.app/)
   > Architected a 3-tier microservices FinTech platform. Engineered a Two-Stage Decision Engine using fraud heuristics and an **XGBoost ML model** for real-time, SHAP-explainable credit risk assessments.
 
-- **[JoinMe](https://github.com/waghmareuday/JoinMe)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square)](http://joinme-theta.vercel.app/)
+- **[JoinMe](https://github.com/waghmareuday/JoinMe)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square)](https://thejoinme.vercel.app/)
   > A full-stack event marketplace architected using the MERN stack. Features a secure dual-layer JWT login system, Stripe integration, and horizontal-scaling WebSocket architecture.
 
 - **[Annual Report RAG](https://github.com/waghmareuday/Swiggy-Annual-Report-RAG)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square)](https://swiggy-rag-vp35.onrender.com)
